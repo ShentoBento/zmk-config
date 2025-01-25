@@ -109,5 +109,11 @@
             key-positions = <29 58>;
             timeout-ms = <400>;
         };
+
+        win_esc_tilde {
+            bindings = <&kp TILDE>;
+            key-positions = <56 0>;
+            timeout-ms = <400>;
+        };
     };
 };
