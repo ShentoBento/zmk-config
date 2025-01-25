@@ -107,7 +107,7 @@
         ctrl_tab_fn {
             bindings = <&mo 1>;
             key-positions = <29 58>;
-            timeout-ms = <50>;
+            timeout-ms = <400>;
         };
     };
 };
