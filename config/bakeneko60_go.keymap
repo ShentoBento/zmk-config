@@ -107,13 +107,13 @@
         ctrl_tab_fn {
             bindings = <&mo 1>;
             key-positions = <29 58>;
-            timeout-ms = <400>;
+            timeout-ms = <50>;
         };
 
         win_esc_tilde {
             bindings = <&kp TILDE>;
             key-positions = <56 0>;
-            timeout-ms = <400>;
+            timeout-ms = <50>;
         };
     };
 };
